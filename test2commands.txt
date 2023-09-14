@@ -1,0 +1,16 @@
+I
+B 4444 D F When Harry Met Sally, 1989
+B 5555 D D Barry Levinson, Good Morning Vietnam,
+B 4567 D C 7 1939 Judy Garland
+B 1234 D F Sleepless in Seattle, 1993
+B 4444 D C 2 1971 Malcolm McDowell
+B 5555 D C 7 1939 Judy Garland
+R 5555 D C 7 1939 Judy Garland
+B 4444 D F Annie Hall, 1977
+B 4444 D F Annie Hall, 1977
+B 6666 D F Pirates of the Caribbean, 2003
+R 1234 D F Pirates of the Caribbean, 2003
+I
+H 1234
+H 5555
+H 4444
